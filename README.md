@@ -1,4 +1,4 @@
-# Hi, I'm Cora (Oloyede Oyebode)
+#  I'm Cora Oloyede Oyebode
 
 ## Data Analyst | Excel & Power Query Specialist
 
